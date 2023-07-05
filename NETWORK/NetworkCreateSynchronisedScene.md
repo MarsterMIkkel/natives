@@ -17,7 +17,7 @@ int NETWORK_CREATE_SYNCHRONISED_SCENE(float x, float y, float z, float xRot, flo
 * **zRot**: 
 * **rotationOrder**: 
 * **holdLastFrame**: 
-* **looped**: 
+* **looped**: -- False means its looped
 * **p9**: 
 * **animTime**: 
 * **animSpeed**: 
